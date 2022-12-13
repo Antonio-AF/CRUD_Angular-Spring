@@ -7,5 +7,5 @@ Curso realizado pela Loiane Groner -> (Link da Playlist https://www.youtube.com/
 Nesse curso teremos as principais ferramentas que utilizaremos para a construção de aplicações com o ReactJs que é uma Bibioteca JavaScript.
 
 
-![A Figura 1 Imagem do ReactJs.](https://solguruz.com/wp-content/uploads/2022/09/ReactJS-Framework-Benefits.png)
+![A Figura 1 Imagem do ReactJs.](https://i.ytimg.com/vi/zXyF0afXjlQ/maxresdefault.jpg)
 
